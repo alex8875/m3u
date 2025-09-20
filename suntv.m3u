@@ -1,39 +1,378 @@
 #EXTM3U
-#EXTINF:-1 group-title="-" tvg-id="flixhd.in",&FLIX HD
-http://103.83.80.54:6088/play/a0an/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="privehd.in",&Prive HD
-http://103.83.80.54:6088/play/a0at/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="xplorhd.in",&Xplor HD
-http://103.83.80.54:6088/play/a0aw/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="pictureshd.in",&pictures HD
-http://103.83.80.54:6088/play/a0ac/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="tvhd.in",&tv HD
-http://103.83.80.54:6088/play/a0ad/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="9xm.in",9XM
-http://103.83.80.54:6088/play/a0gm/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="asianethd.in",ASIANET HD
-http://103.83.80.54:6088/play/a09w/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="aajtakhd.in",Aaj Tak HD
-http://103.83.80.54:6088/play/a09i/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="animalplanethd.in",Animal Planet HD
-http://103.83.80.54:6088/play/a09q/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="asianetmovieshd.in",Asianet Movies HD
-http://103.83.80.54:6088/play/a0ax/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="b4umovies.in",B4U Movies
-http://103.83.80.54:6088/play/a0hr/index.m3u8
-#EXTINF:-1 group-title="-",CNBC Bajaar - Rs 1.00
-http://103.83.80.54:6088/play/a0o6/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="colorsbanglacinema.in",Colors Bangla Cinema
-http://103.83.80.54:6088/play/a0hm/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="colorscineplexbollywood.in",Colors Cineplex Bollywood
-http://103.83.80.54:6088/play/a0ir/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="colorsgujaraticinema.in",Colors Gujarati Cinema
-http://103.83.80.54:6088/play/a0gf/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="colorshd.in",Colors HD
-http://103.83.80.54:6088/play/a09h/index.m3u8
-#EXTINF:-1 group-title="-",Colors SUPER - Rs 1.00
-http://103.83.80.54:6088/play/a0og/index.m3u8
-#EXTINF:-1 group-title="-" tvg-id="colorstamilhd.in",Colors Tamil HD
+#EXTINF:-1 group-title="-", Shraddha MH 1
+http://202.164.50.194:8000/play/a03w/index.m3u8
+#EXTINF:-1 group-title="-",24 Ghanta
+http://202.164.50.194:8000/play/a04n/index.m3u8
+#EXTINF:-1 group-title="-",24 TAAS
+http://202.164.50.194:8000/play/a04o/index.m3u8
+#EXTINF:-1 group-title="-",4TV NEWS
+http://202.164.50.194:8000/play/a004/index.m3u8
+#EXTINF:-1 group-title="-",6 TV Telangana
+http://202.164.50.194:8000/play/a00l/index.m3u8
+#EXTINF:-1 group-title="-",7S MUSIC
+http://202.164.50.194:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="-",99 Percent
+http://202.164.50.194:8000/play/a03f/index.m3u8
+#EXTINF:-1 group-title="-",9X JALWA
+http://202.164.50.194:8000/play/a01h/index.m3u8
+#EXTINF:-1 group-title="-",9X JHAKAAS
+http://202.164.50.194:8000/play/a017/index.m3u8
+#EXTINF:-1 group-title="-",9X TASHAN
+http://202.164.50.194:8000/play/a034/index.m3u8
+#EXTINF:-1 group-title="-",9XM
+http://202.164.50.194:8000/play/a016/index.m3u8
+#EXTINF:-1 group-title="-",A1 TV
+http://202.164.50.194:8000/play/a003/index.m3u8
+#EXTINF:-1 group-title="-",AASEERVATHAM TV
+http://202.164.50.194:8000/play/a02p/index.m3u8
+#EXTINF:-1 group-title="-",ALL TIME MOVIES
+http://202.164.50.194:8000/play/a02d/index.m3u8
+#EXTINF:-1 group-title="-",ANAADI TV
+http://202.164.50.194:8000/play/a065/index.m3u8
+#EXTINF:-1 group-title="-",ANB NEWS
+http://202.164.50.194:8000/play/a02w/index.m3u8
+#EXTINF:-1 group-title="-",APN 
+http://202.164.50.194:8000/play/a03j/index.m3u8
+#EXTINF:-1 group-title="-",ARGUS
+http://202.164.50.194:8000/play/a01n/index.m3u8
+#EXTINF:-1 group-title="-",ARYAN TV NATIONAL
+http://202.164.50.194:8000/play/a055/index.m3u8
+#EXTINF:-1 group-title="-",ASSAM TALKS
+http://202.164.50.194:8000/play/a054/index.m3u8
+#EXTINF:-1 group-title="-",AWAKENING TV
+http://202.164.50.194:8000/play/a052/index.m3u8
+#EXTINF:-1 group-title="-",AYUSH TV
+http://202.164.50.194:8000/play/a05q/index.m3u8
+#EXTINF:-1 group-title="-",Anand TV
+http://202.164.50.194:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="-",B4U BHOJPURI
+http://202.164.50.194:8000/play/a02j/index.m3u8
+#EXTINF:-1 group-title="-",B4U KADAK
+http://202.164.50.194:8000/play/a01i/index.m3u8
+#EXTINF:-1 group-title="-",BIG TV
+http://202.164.50.194:8000/play/a00d/index.m3u8
+#EXTINF:-1 group-title="-",BS TV
+http://202.164.50.194:8000/play/a005/index.m3u8
+#EXTINF:-1 group-title="-",Balle Balle Non-Stop Music
+http://202.164.50.194:8000/play/a049/index.m3u8
+#EXTINF:-1 group-title="-",Bansal News
+http://202.164.50.194:8000/play/a045/index.m3u8
+#EXTINF:-1 group-title="-",Bharat Samachar
+http://202.164.50.194:8000/play/a00y/index.m3u8
+#EXTINF:-1 group-title="-",CBSN
+http://202.164.50.194:8000/play/a063/index.m3u8
+#EXTINF:-1 group-title="-",Channel Win
+http://202.164.50.194:8000/play/a01b/index.m3u8
+#EXTINF:-1 group-title="-",Chaubees x7 TV
+http://202.164.50.194:8000/play/a023/index.m3u8
+#EXTINF:-1 group-title="-",Chaukas TV
+http://202.164.50.194:8000/play/a02a/index.m3u8
+#EXTINF:-1 group-title="-",Chumbak TV
+http://202.164.50.194:8000/play/a03k/index.m3u8
+#EXTINF:-1 group-title="-",DABANGG
+http://202.164.50.194:8000/play/a01g/index.m3u8
+#EXTINF:-1 group-title="-",DANGAL
+http://202.164.50.194:8000/play/a00q/index.m3u8
+#EXTINF:-1 group-title="-",DANGAL 2
+http://202.164.50.194:8000/play/a00p/index.m3u8
+#EXTINF:-1 group-title="-",DARSHAN 24
+http://202.164.50.194:8000/play/a051/index.m3u8
+#EXTINF:-1 group-title="-",DD India HD
+http://202.164.50.194:8000/play/a05e/index.m3u8
+#EXTINF:-1 group-title="-",DD News HD
+http://202.164.50.194:8000/play/a05d/index.m3u8
+#EXTINF:-1 group-title="-",DD SANSAD TV HD
+http://202.164.50.194:8000/play/a05g/index.m3u8
+#EXTINF:-1 group-title="-",DD SPORTS HD 2.0
+http://202.164.50.194:8000/play/a05f/index.m3u8
+#EXTINF:-1 group-title="-",DD- SANSAD TV-RAJYA SABHA
+http://202.164.50.194:8000/play/a05b/index.m3u8
+#EXTINF:-1 group-title="-",DD-Bharti
+http://202.164.50.194:8000/play/a057/index.m3u8
+#EXTINF:-1 group-title="-",DD-HD National
+http://202.164.50.194:8000/play/a05c/index.m3u8
+#EXTINF:-1 group-title="-",DD-Kisan
+http://202.164.50.194:8000/play/a058/index.m3u8
+#EXTINF:-1 group-title="-",DD-Sports SD 2.0
+http://202.164.50.194:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="-",DD-Urdu
+http://202.164.50.194:8000/play/a059/index.m3u8
+#EXTINF:-1 group-title="-",DHAMAAL
+http://202.164.50.194:8000/play/a01e/index.m3u8
+#EXTINF:-1 group-title="-",DIVYA
+http://202.164.50.194:8000/play/a00n/index.m3u8
+#EXTINF:-1 group-title="-",Disha News Channel
+http://202.164.50.194:8000/play/a02v/index.m3u8
+#EXTINF:-1 group-title="-",E 24
+http://202.164.50.194:8000/play/a04y/index.m3u8
+#EXTINF:-1 group-title="-",FATEH TV
+http://202.164.50.194:8000/play/a00m/index.m3u8
+#EXTINF:-1 group-title="-",FGN Channel
+http://202.164.50.194:8000/play/a04g/index.m3u8
+#EXTINF:-1 group-title="-",FOOD FOOD
+http://202.164.50.194:8000/play/a025/index.m3u8
+#EXTINF:-1 group-title="-",GOLDMINES MOVIES
+http://202.164.50.194:8000/play/a02l/index.m3u8
+#EXTINF:-1 group-title="-",GS TV
+http://202.164.50.194:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="-",GUARANTEE NEWS 24x7
+http://202.164.50.194:8000/play/a029/index.m3u8
+#EXTINF:-1 group-title="-",Gangaur
+http://202.164.50.194:8000/play/a04d/index.m3u8
+#EXTINF:-1 group-title="-",Goldmines
+http://202.164.50.194:8000/play/a02x/index.m3u8
+#EXTINF:-1 group-title="-",Goldmines 2
+http://202.164.50.194:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="-",Goldmines Action
+http://202.164.50.194:8000/play/a039/index.m3u8
+#EXTINF:-1 group-title="-",Goldmines Bollywood
+http://202.164.50.194:8000/play/a02s/index.m3u8
+#EXTINF:-1 group-title="-",Gujarat First
+http://202.164.50.194:8000/play/a046/index.m3u8
+#EXTINF:-1 group-title="-",HNN
+http://202.164.50.194:8000/play/a00a/index.m3u8
+#EXTINF:-1 group-title="-",Hare KRSNA
+http://202.164.50.194:8000/play/a03q/index.m3u8
+#EXTINF:-1 group-title="-",Hindi Khabar
+http://202.164.50.194:8000/play/a00v/index.m3u8
+#EXTINF:-1 group-title="-",Hope Channel India
+http://202.164.50.194:8000/play/a02o/index.m3u8
+#EXTINF:-1 group-title="-",IBC-24
+http://202.164.50.194:8000/play/a033/index.m3u8
+#EXTINF:-1 group-title="-",IND24
+http://202.164.50.194:8000/play/a01d/index.m3u8
+#EXTINF:-1 group-title="-",INDIA DAILY 24X7
+http://202.164.50.194:8000/play/a01r/index.m3u8
+#EXTINF:-1 group-title="-",INH 24X7
+http://202.164.50.194:8000/play/a011/index.m3u8
+#EXTINF:-1 group-title="-",India Voice
+http://202.164.50.194:8000/play/a03c/index.m3u8
+#EXTINF:-1 group-title="-",JANTANTRA TV
+http://202.164.50.194:8000/play/a036/index.m3u8
+#EXTINF:-1 group-title="-",JKL 24X7 NEWS
+http://202.164.50.194:8000/play/a050/index.m3u8
+#EXTINF:-1 group-title="-",Jinvani
+http://202.164.50.194:8000/play/a01c/index.m3u8
+#EXTINF:-1 group-title="-",K NEWS INDIA
+http://202.164.50.194:8000/play/a02k/index.m3u8
+#EXTINF:-1 group-title="-",KALINGA TV
+http://202.164.50.194:8000/play/a00s/index.m3u8
+#EXTINF:-1 group-title="-",KANAK NEWS
+http://202.164.50.194:8000/play/a064/index.m3u8
+#EXTINF:-1 group-title="-",KHUSHBOO
+http://202.164.50.194:8000/play/a00r/index.m3u8
+#EXTINF:-1 group-title="-",Kannada Naaptol
+http://202.164.50.194:8000/play/a042/index.m3u8
+#EXTINF:-1 group-title="-",Kerala Vision
+http://202.164.50.194:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="-",Khabrain Abhi Tak
+http://202.164.50.194:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="-",Live Times
+http://202.164.50.194:8000/play/a00w/index.m3u8
+#EXTINF:-1 group-title="-",M NADU
+http://202.164.50.194:8000/play/a021/index.m3u8
+#EXTINF:-1 group-title="-",MAIBOLI
+http://202.164.50.194:8000/play/a01f/index.m3u8
+#EXTINF:-1 group-title="-",MANORAMA NEWS
+http://202.164.50.194:8000/play/a04s/index.m3u8
+#EXTINF:-1 group-title="-",MANORANJAN GRAND
+http://202.164.50.194:8000/play/a00h/index.m3u8
+#EXTINF:-1 group-title="-",MANORANJAN PRIME
+http://202.164.50.194:8000/play/a002/index.m3u8
+#EXTINF:-1 group-title="-",MANORANJAN TV
+http://202.164.50.194:8000/play/a00i/index.m3u8
+#EXTINF:-1 group-title="-",MASTIII
+http://202.164.50.194:8000/play/a018/index.m3u8
+#EXTINF:-1 group-title="-",MAZHAVIL MANORAMA HD
+http://202.164.50.194:8000/play/a04u/index.m3u8
+#EXTINF:-1 group-title="-",MAZHAVIL MANORAMA SD
+http://202.164.50.194:8000/play/a04v/index.m3u8
+#EXTINF:-1 group-title="-",MH ONE 
+http://202.164.50.194:8000/play/a03v/index.m3u8
+#EXTINF:-1 group-title="-",MH ONE DIL SE
+http://202.164.50.194:8000/play/a03x/index.m3u8
+#EXTINF:-1 group-title="-",MH ONE NEWS
+http://202.164.50.194:8000/play/a03u/index.m3u8
+#EXTINF:-1 group-title="-",MHONE MOVIES
+http://202.164.50.194:8000/play/a03y/index.m3u8
+#EXTINF:-1 group-title="-",MK SIX
+http://202.164.50.194:8000/play/a05u/index.m3u8
+#EXTINF:-1 group-title="-",MK TELEVISION
+http://202.164.50.194:8000/play/a05s/index.m3u8
+#EXTINF:-1 group-title="-",MK TUNES
+http://202.164.50.194:8000/play/a05t/index.m3u8
+#EXTINF:-1 group-title="-",Malyalam Naaptol
+http://202.164.50.194:8000/play/a041/index.m3u8
+#EXTINF:-1 group-title="-",Manorama News North
+http://202.164.50.194:8000/play/a04t/index.m3u8
+#EXTINF:-1 group-title="-",Mantavya 24x7 News
+http://202.164.50.194:8000/play/a047/index.m3u8
+#EXTINF:-1 group-title="-",Movieplex
+http://202.164.50.194:8000/play/a03n/index.m3u8
+#EXTINF:-1 group-title="-",Music India
+http://202.164.50.194:8000/play/a013/index.m3u8
+#EXTINF:-1 group-title="-",NAMBIKKAI TV
+http://202.164.50.194:8000/play/a05p/index.m3u8
+#EXTINF:-1 group-title="-",NANDIGHOSA TV
+http://202.164.50.194:8000/play/a00j/index.m3u8
+#EXTINF:-1 group-title="-",NAXATRA Hindi
+http://202.164.50.194:8000/play/a066/index.m3u8
+#EXTINF:-1 group-title="-",ND-24
+http://202.164.50.194:8000/play/a00k/index.m3u8
+#EXTINF:-1 group-title="-",NEPAL 1
+http://202.164.50.194:8000/play/a00o/index.m3u8
+#EXTINF:-1 group-title="-",NEWS 24
+http://202.164.50.194:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="-",NEWS LIVE
+http://202.164.50.194:8000/play/a05i/index.m3u8
+#EXTINF:-1 group-title="-",NEWS STATE BH/JH
+http://202.164.50.194:8000/play/a01y/index.m3u8
+#EXTINF:-1 group-title="-",NEWS STATE MH_GOA
+http://202.164.50.194:8000/play/a020/index.m3u8
+#EXTINF:-1 group-title="-",NEWS STATE PB/HIM
+http://202.164.50.194:8000/play/a01z/index.m3u8
+#EXTINF:-1 group-title="-",NEWS24 MP-CG
+http://202.164.50.194:8000/play/a053/index.m3u8
+#EXTINF:-1 group-title="-",NKR TV
+http://202.164.50.194:8000/play/a05r/index.m3u8
+#EXTINF:-1 group-title="-",NON-STOP SAMACHAR INDIA
+http://202.164.50.194:8000/play/a02u/index.m3u8
+#EXTINF:-1 group-title="-",Network 10
+http://202.164.50.194:8000/play/a01j/index.m3u8
+#EXTINF:-1 group-title="-",News 1 India
+http://202.164.50.194:8000/play/a02z/index.m3u8
+#EXTINF:-1 group-title="-",News 11 Bharat
+http://202.164.50.194:8000/play/a01a/index.m3u8
+#EXTINF:-1 group-title="-",News 360
+http://202.164.50.194:8000/play/a01x/index.m3u8
+#EXTINF:-1 group-title="-",News 9
+http://202.164.50.194:8000/play/a01s/index.m3u8
+#EXTINF:-1 group-title="-",News Nation
+http://202.164.50.194:8000/play/a035/index.m3u8
+#EXTINF:-1 group-title="-",News State Madhya Pradesh/Chhattisgarh
+http://202.164.50.194:8000/play/a037/index.m3u8
+#EXTINF:-1 group-title="-",News State Uttarakhand/Uttar Pradesh
+http://202.164.50.194:8000/play/a038/index.m3u8
+#EXTINF:-1 group-title="-",OM TV
+http://202.164.50.194:8000/play/a01t/index.m3u8
+#EXTINF:-1 group-title="-",OTV
+http://202.164.50.194:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="-",P T EXPRESS
+http://202.164.50.194:8000/play/a019/index.m3u8
+#EXTINF:-1 group-title="-",PITAARA
+http://202.164.50.194:8000/play/a00x/index.m3u8
+#EXTINF:-1 group-title="-",POPULAR TV
+http://202.164.50.194:8000/play/a009/index.m3u8
+#EXTINF:-1 group-title="-",PRATHAM KHABAR 24X7
+http://202.164.50.194:8000/play/a04z/index.m3u8
+#EXTINF:-1 group-title="-",PRATHANA BHAWAN
+http://202.164.50.194:8000/play/a05x/index.m3u8
+#EXTINF:-1 group-title="-",Paras Gold One
+http://202.164.50.194:8000/play/a03i/index.m3u8
+#EXTINF:-1 group-title="-",Peace of Mind
+http://202.164.50.194:8000/play/a04c/index.m3u8
+#EXTINF:-1 group-title="-",Prime9 Plus
+http://202.164.50.194:8000/play/a027/index.m3u8
+#EXTINF:-1 group-title="-",Pudhari News
+http://202.164.50.194:8000/play/a04f/index.m3u8
+#EXTINF:-1 group-title="-",Punjabi Hits
+http://202.164.50.194:8000/play/a04h/index.m3u8
+#EXTINF:-1 group-title="-",Puthu Yugam
+http://202.164.50.194:8000/play/a01m/index.m3u8
+#EXTINF:-1 group-title="-",RAFTAAR MEDIA
+http://202.164.50.194:8000/play/a008/index.m3u8
+#EXTINF:-1 group-title="-",RONGEEN TV
+http://202.164.50.194:8000/play/a00g/index.m3u8
+#EXTINF:-1 group-title="-",Raapchik
+http://202.164.50.194:8000/play/a04i/index.m3u8
+#EXTINF:-1 group-title="-",Republic TV Bharat
+http://202.164.50.194:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="-",SAAM TV
+http://202.164.50.194:8000/play/a012/index.m3u8
+#EXTINF:-1 group-title="-",SADHNA GOLD
+http://202.164.50.194:8000/play/a01k/index.m3u8
+#EXTINF:-1 group-title="-",SAI TV
+http://202.164.50.194:8000/play/a024/index.m3u8
+#EXTINF:-1 group-title="-",SANT WANI
+http://202.164.50.194:8000/play/a04k/index.m3u8
+#EXTINF:-1 group-title="-",SHEKINAH
+http://202.164.50.194:8000/play/a03g/index.m3u8
+#EXTINF:-1 group-title="-",SHEMAROO MARATHIBANA
+http://202.164.50.194:8000/play/a02f/index.m3u8
+#EXTINF:-1 group-title="-",SHEMAROO TV
+http://202.164.50.194:8000/play/a01l/index.m3u8
+#EXTINF:-1 group-title="-",SHEMAROO UMANG
+http://202.164.50.194:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="-",SIRIKANNADA ALL TIME
+http://202.164.50.194:8000/play/a02q/index.m3u8
+#EXTINF:-1 group-title="-",SKYAMA DAILY POST
+http://202.164.50.194:8000/play/a01v/index.m3u8
+#EXTINF:-1 group-title="-",STUDIO YUVA
+http://202.164.50.194:8000/play/a030/index.m3u8
+#EXTINF:-1 group-title="-",SUBHAVAARTHA
+http://202.164.50.194:8000/play/a05o/index.m3u8
+#EXTINF:-1 group-title="-",SUBHSANDESH
+http://202.164.50.194:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="-",SUPER TV
+http://202.164.50.194:8000/play/a01w/index.m3u8
+#EXTINF:-1 group-title="-",SWATANTRA
+http://202.164.50.194:8000/play/a03l/index.m3u8
+#EXTINF:-1 group-title="-",Sach Bedhadak
+http://202.164.50.194:8000/play/a04a/index.m3u8
+#EXTINF:-1 group-title="-",Sadhna Prime News
+http://202.164.50.194:8000/play/a02h/index.m3u8
+#EXTINF:-1 group-title="-",Sangeet Bangla
+http://202.164.50.194:8000/play/a014/index.m3u8
+#EXTINF:-1 group-title="-",Sangeet Bhojpuri
+http://202.164.50.194:8000/play/a015/index.m3u8
+#EXTINF:-1 group-title="-",Sarv Dharm Sangam
+http://202.164.50.194:8000/play/a02g/index.m3u8
+#EXTINF:-1 group-title="-",Sharnam TV
+http://202.164.50.194:8000/play/a03s/index.m3u8
+#EXTINF:-1 group-title="-",Studio One Plus
+http://202.164.50.194:8000/play/a03e/index.m3u8
+#EXTINF:-1 group-title="-",Subharti
+http://202.164.50.194:8000/play/a02y/index.m3u8
+#EXTINF:-1 group-title="-",Sudarshan
+http://202.164.50.194:8000/play/a00z/index.m3u8
+#EXTINF:-1 group-title="-",Swaraj Express SMBC
+http://202.164.50.194:8000/play/a03h/index.m3u8
+#EXTINF:-1 group-title="-",TAAZA TV
+http://202.164.50.194:8000/play/a03o/index.m3u8
+#EXTINF:-1 group-title="-",THE Q
+http://202.164.50.194:8000/play/a02e/index.m3u8
+#EXTINF:-1 group-title="-",TNP NEWS
+http://202.164.50.194:8000/play/a05y/index.m3u8
+#EXTINF:-1 group-title="-",TRIBE TV
+http://202.164.50.194:8000/play/a006/index.m3u8
+#EXTINF:-1 group-title="-",TRIBE TV PLUS
+http://202.164.50.194:8000/play/a007/index.m3u8
+#EXTINF:-1 group-title="-",TV 100
+http://202.164.50.194:8000/play/a03b/index.m3u8
+#EXTINF:-1 group-title="-",TV9 Bangla
+http://202.164.50.194:8000/play/a031/index.m3u8
+#EXTINF:-1 group-title="-",TVN NEWS
+http://202.164.50.194:8000/play/a00e/index.m3u8
+#EXTINF:-1 group-title="-",Tamil Naaptol
+http://202.164.50.194:8000/play/a040/index.m3u8
+#EXTINF:-1 group-title="-",Tehzeeb TV
+http://202.164.50.194:8000/play/a04j/index.m3u8
+#EXTINF:-1 group-title="-",Telugu Naaptol
+http://202.164.50.194:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="-",UTKRISTH NEWS RAJASTHAN
+http://202.164.50.194:8000/play/a00c/index.m3u8
+#EXTINF:-1 group-title="-",VAANAVIL TV
+http://202.164.50.194:8000/play/a02r/index.m3u8
+#EXTINF:-1 group-title="-",VISTAAR NEWS
+http://202.164.50.194:8000/play/a04b/index.m3u8
+#EXTINF:-1 group-title="-",WIN TV
+http://202.164.50.194:8000/play/a022/index.m3u8
+#EXTINF:-1 group-title="-",Wow Cinema One
+http://202.164.50.194:8000/play/a043/index.m3u8
+#EXTINF:-1 group-title="-",ZEE BHARAT
+http://202.164.50.194:8000/play/a04m/index.m3u8
+#EXTINF:-1 group-title="-",ZEE BIHAR JHARKHAND
+http://202.164.50.194:8000/play/a04q/index.m3u8
 http://103.83.80.54:6088/play/a0mu/index.m3u8
 #EXTINF:-1 group-title="-" tvg-id="dtamil.in",D Tamil
 http://103.83.80.54:6088/play/a0ms/index.m3u8
