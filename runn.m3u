@@ -1,10 +1,10 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-id="59" group-title="Movies" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMOV/TV/thumbnail/d4287ab1-409a-4afb-9e92-57f185f83bda.png", B4U Movies
-https://b4u.cdn.runn.tv/B4U_Movies_HD/master.m3u8
+#EXTINF:-1 tvg-id="40" group-title="Entertainment" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/TV/thumbnail/15d93fe2-ee9a-4134-a6ce-a034f021f060.png", NH BollyFlix
+https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="62" group-title="Movies" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UBHO/TV/thumbnail/480ac87d-fa26-4ecf-bd6c-8478f0e7d57b.png", B4U Bhojpuri
-https://b4u.cdn.runn.tv/B4U_Bhojpuri_HD/master.m3u8
+#EXTINF:-1 tvg-id="41" group-title="Music" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png", NH BollyRaga
+https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
 
 #EXTINF:-1 tvg-id="10" group-title="Short Films" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_RUNSHF/TV/thumbnail/logo_web.png", Runn Short Films
 https://playout.runn.tv/playout/v1/stream/p_runshf/playlist.m3u8
@@ -50,23 +50,6 @@ https://newsnation.cdn.runn.tv/nnnational/index.m3u8
 
 #EXTINF:-1 tvg-id="36" group-title="News & Opinion" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/TV/thumbnail/41a67ed0-e6ce-42f5-8b3a-e77ce5488927.png", News State UP/UK
 https://newsnation.cdn.runn.tv/nnup/index.m3u8
-
-#EXTINF:-1 tvg-id="58" group-title="Music" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/9XJALW/TV/thumbnail/ca526c77-93fb-4a1e-ad04-7f403df3a459.png", 9X Jalwa
-https://9x.cdn.runn.tv/9X_Jalwa_HD/master.m3u8
-
-#EXTINF:-1 tvg-id="57" group-title="Music" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RUN9XM/TV/thumbnail/45182c42-49d3-422f-bf4a-1c22df2df71b.png", 9XM
-https://9x.cdn.runn.tv/9XM_HD/master.m3u8
-
-#EXTINF:-1 tvg-id="60" group-title="Music" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMUS/TV/thumbnail/21a19157-5dad-4394-9c03-18475342781a.png", B4U Music
-https://b4u.cdn.runn.tv/B4U_Music_HD/master.m3u8
-
-#EXTINF:-1 tvg-id="16" group-title="Music" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/TV/thumbnail/logo_tv.png", Shemaroo Filmigaane
-https://shemaroo.cdn.runn.tv/ptnr-runntv/title-Filmi_Gaane/v1/vglive-sk-909176/main.m3u8
-
-#EXTINF:-1 tvg-id="41" group-title="Music" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png", NH BollyRaga
-https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
-#EXTINF:-1 tvg-id="40" group-title="Entertainment" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYFLX/TV/thumbnail/15d93fe2-ee9a-4134-a6ce-a034f021f060.png", NH BollyFlix
-https://nh-runntv-blyflx.cdn.runn.tv/nhstdz/stream/blyflx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="15" group-title="Entertainment" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRBOL/TV/thumbnail/logo_tv.png", Shemaroo Bollywood
 https://shemaroo.cdn.runn.tv/v1/vglive-sk-816088/main.m3u8
@@ -144,17 +127,6 @@ https://newsnation.cdn.runn.tv/nnnational/index.m3u8
 #EXTINF:-1 tvg-id="36" group-title="News & Opinion" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/NNATUK/TV/thumbnail/41a67ed0-e6ce-42f5-8b3a-e77ce5488927.png", News State UP/UK
 https://newsnation.cdn.runn.tv/nnup/index.m3u8
 
-#EXTINF:-1 tvg-id="58" group-title="Music" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/9XJALW/TV/thumbnail/ca526c77-93fb-4a1e-ad04-7f403df3a459.png", 9X Jalwa
-https://9x.cdn.runn.tv/9X_Jalwa_HD/master.m3u8
-
-#EXTINF:-1 tvg-id="57" group-title="Music" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/RUN9XM/TV/thumbnail/45182c42-49d3-422f-bf4a-1c22df2df71b.png", 9XM
-https://9x.cdn.runn.tv/9XM_HD/master.m3u8
-
-#EXTINF:-1 tvg-id="60" group-title="Music" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/B4UMUS/TV/thumbnail/21a19157-5dad-4394-9c03-18475342781a.png", B4U Music
-https://b4u.cdn.runn.tv/B4U_Music_HD/master.m3u8
-
-#EXTINF:-1 tvg-id="16" group-title="Music" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/P_SMRFGN/TV/thumbnail/logo_tv.png", Shemaroo Filmigaane
-https://shemaroo.cdn.runn.tv/ptnr-runntv/title-Filmi_Gaane/v1/vglive-sk-909176/main.m3u8
 
 #EXTINF:-1 tvg-id="41" group-title="Music" tvg-logo="https://dnuk7lvye3m03.cloudfront.net/runntv/platform/channels/BLYRAG/TV/thumbnail/ee2bcbec-b42c-4179-b3d5-57d780349c0d.png", NH BollyRaga
 https://nh-runntv-blyrag.cdn.runn.tv/nhstdz/stream/blyrag/playlist.m3u8
