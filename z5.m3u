@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak
+#EXTINF:-1 tvg-id="0-9-aajtak" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Aaj_Tak.png",Aaj Tak.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 ygx/69.1 Safari/537.36
 https://z5ak-cmaflive.zee5.com/cmaf/live/2105503/AAJTAKHDNEWSELE/index-connected.m3u8?hdntl=exp=1758417541~acl=%2f*~data=hdntl~hmac=c811c3628e8a5043c38dc27ac78f000a089f507231b276736788bc11f9b80267
 #EXTINF:-1 tvg-id="0-9-zeenews" group-title="News" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Zee_News.png",Zee News
