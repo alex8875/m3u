@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="52" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="Entertainment", Colors HD
+#EXTINF:-1 tvg-id="52" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg" group-title="Entertainment", Colors HD.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/128.0.0.1 Safari/537.36
 https://v18tataplaysyndication.akamaized.net/bpk-tv/Colors_HD_voot_MOB/output03/hdntl=exp=1744286182~acl=%2f*~data=hdntl~hmac=2f3d299dd14ebad599ffa7ba3e3997140d3337ab13d773ed75d7fedb048b7476/Colors_HD_voot_MOB.m3u8
 
