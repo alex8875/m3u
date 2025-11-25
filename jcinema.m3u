@@ -1,289 +1,293 @@
+<br />
+<b>Warning</b>:  file_get_contents(): php_network_getaddresses: getaddrinfo for m3u.denver1769.fun failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/jcinema/playlist.php</b> on line <b>6</b><br />
+<br />
+<b>Warning</b>:  file_get_contents(https://m3u.denver1769.fun/Jh/cookie.json): Failed to open stream: php_network_getaddresses: getaddrinfo for m3u.denver1769.fun failed: Temporary failure in name resolution in <b>/www/wwwroot/play.yuvraj.news/apix824/jcinema/playlist.php</b> on line <b>6</b><br />
 #EXTM3U
-#Generated on 1764074713
+#Generated on 1764095585
 
 #EXTINF:-1 tvg-id="144" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/colors-hindi--16x9-1714557869344.jpg",Colors HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsHD/JCHLS/JC_ColorsHD.m3u8
 
 #EXTINF:-1 tvg-id="1370" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/collors-rishtey-live-channels-16x9-3-1642676080416-1674198105431-1697532377978.jpg",Colors Rishtey
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsRishtey/JCHLS/JC_ColorsRishtey.m3u8
 
 #EXTINF:-1 tvg-id="756" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-bangla-new-16x9-4-1649659533344.jpg",Colors Bangla HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsBanglaHD/JCHLS/JC_ColorsBanglaHD.m3u8
 
 #EXTINF:-1 tvg-id="757" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-16x9-1677754085834.jpg",Colors Kannada HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsKannadaHD/JCHLS/JC_ColorsKannadaHD.m3u8
 
 #EXTINF:-1 tvg-id="755" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-marathi-live-channels-16x9-4-6-apr-1649257093359.jpg",Colors Marathi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsMarathiHD/JCHLS/JC_ColorsMarathiHD.m3u8
 
 #EXTINF:-1 tvg-id="196" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-gujarati-16x9-1713269620328.jpg",Colors Gujarati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsGujarati/JCHLS/JC_ColorsGujarati.m3u8
 
 #EXTINF:-1 tvg-id="429" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/ct-1644165913136.jpg",Colors Tamil HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsTamilHD/JCHLS/JC_ColorsTamilHD.m3u8
 
 #EXTINF:-1 tvg-id="1158" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-infinity-live-channels-16x9-1642496946057.jpg",Colors Infinity HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsInfinityHD/JCHLS/JC_ColorsInfinityHD.m3u8
 
 #EXTINF:-1 tvg-id="785" group-title="Entertainment" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-super-live-channels-16x9-4-1642744939924.jpg",Colors Super
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsSuperKannada/JCHLS/JC_ColorsSuperKannada.m3u8
 
 #EXTINF:-1 tvg-id="1477" group-title="Movies" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/Live-Tv-Channels-colors-cineplex-1607514413063.jpg",Colors Cineplex HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexHD/JCHLS/JC_ColorsCineplexHD.m3u8
 
 #EXTINF:-1 tvg-id="1450" group-title="Movies" tvg-logo="https://v3img.voot.com/resizeMedium,w_960,h_540/v3Storage/assets/colors-cineplex-superhit%2016x9-1648793655358.jpg",Colors Cineplex Superhits
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexSuperhit/JCHLS/JC_ColorsCineplexSuperhit.m3u8
 
 #EXTINF:-1 tvg-id="1763" group-title="Movies" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/cineplex-1713963820848.jpeg",Colors Cineplex Bollywood
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsCineplexBollywood/JCHLS/JC_ColorsCineplexBollywood.m3u8
 
 #EXTINF:-1 tvg-id="1632" group-title="Movies" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/colors-kannada-cinema-16x9-1713963481807.jpg",Colors Kannada Cinema
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_ColorsKannadaCinema/JCHLS/JC_ColorsKannadaCinema.m3u8
 
 #EXTINF:-1 tvg-id="1145" group-title="Music" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/mtv-16x9-1714316345624.jpg",MTV HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_MTVHD/JCHLS/JC_MTVHD.m3u8
 
 #EXTINF:-1 tvg-id="544" group-title="Kids" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets//16x9-1719554242246.jpg",Nick
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_NickSD/JCHLS/JC_NickSD.m3u8
 
 #EXTINF:-1 tvg-id="548" group-title="Kids" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/sonic-16x9-2-1626707025539.jpg",Sonic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_SonicNick/JCHLS/JC_SonicNick.m3u8
 
 #EXTINF:-1 tvg-id="1226" group-title="Kids" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/nick-hd-plus-live-channels-16x9-4-1642585145139.jpg",Nick HD+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_NickHD/JCHLS/JC_NickHD.m3u8
 
 #EXTINF:-1 tvg-id="815" group-title="Kids" tvg-logo="https://v3img.voot.com/resizeMedium,w_450,h_253/v3Storage/assets/nick-jr-16x9-2-1626708077243.jpg",Nick Jr
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/JC_NickJr/JCHLS/JC_NickJr.m3u8
 
 #EXTINF:-1 tvg-id="1033" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2HindiHD_Transparent_c72d6289-27aa-422d-8420-40135329a5b6.png",Star Sports 2 Hindi HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/f0e3e64ae415771d8e460317ce97aa5e/Fallback/f0e3e64ae415771d8e460317ce97aa5e.m3u8
 
 #EXTINF:-1 tvg-id="980" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Hindi_Transparent_e2c035d5-8451-4c1e-930f-4cb4449d1901.png",Star Sports 2 Hindi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/2c7182c8e6a22cfa6ebc02bbc9ed6dd0/Fallback/2c7182c8e6a22cfa6ebc02bbc9ed6dd0.m3u8
 
 #EXTINF:-1 tvg-id="1186" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Telugu_Transparent_5f794134-ddc1-457f-af2d-d4101d9f6711.png",Star Sports 2 Telugu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/034d1fb94cae87294a06f4dc266084b9/Fallback/034d1fb94cae87294a06f4dc266084b9.m3u8
 
 #EXTINF:-1 tvg-id="1187" group-title="Sports" tvg-logo="https://dvdh7g0f0hwck.cloudfront.net/assets/images/channel/StarSports2Tamil_Transparent_495e7bfa-b0b9-4055-a22e-56f3507ca469.png",Star Sports 2 Tamil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/4db6f833701e78ae4443cb268020f03b/Fallback/4db6f833701e78ae4443cb268020f03b.m3u8
 
 #EXTINF:-1 tvg-id="190" group-title="Business" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc-awaaz-16x9-1702387934761.jpg",CNBC Awaaz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/CNBC_Awaaz_voot_MOB/Fallback/CNBC_Awaaz_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="490" group-title="Business" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/whatsapp16x9-1693491956187.jpg",CNBC Bazaar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/CNBC_Bazaar_voot_MOB/Fallback/CNBC_Bazaar_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="489" group-title="Business" tvg-logo="https://v3img.voot.com/resizeMedium,w_1090,h_613/v3Storage/assets/cnbc18-shereen-bhan-16x9-2-1693479472079.jpg",CNBC TV18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/CNBC_TV18_voot_MOB/Fallback/CNBC_TV18_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="231" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_7.png",News18 India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_India_voot_MOB/Fallback/News18_India_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="492" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/CNN_NEWS_18.png",CNN News18
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/CNN_News18_voot_MOB/Fallback/CNN_News18_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="615" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Tamilnadu.png",News18 Tamil Nadu
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Tamil_Nadu_voot_MOB/Fallback/News18_Tamil_Nadu_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="232" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/IBN_Lokmat.png",News18 Lokmat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Lokmat_voot_MOB/Fallback/News18_Lokmat_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="717" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Bangla_News.png",News18 Bangla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Bangla_voot_MOB/Fallback/News18_Bangla_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="653" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Kannada_News.png",News18 Kannada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Kannada_voot_MOB/Fallback/News18_Kannada_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="620" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Gujarati.png",News18 Gujarati
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Gujarati_voot_MOB/Fallback/News18_Gujarati_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="655" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Haryana_and_HP_News.png",News18 Punjab Haryana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Punjab_Haryana_HP_voot_MOB/Fallback/News18_Punjab_Haryana_HP_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="696" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_News_Oriya.png",News18 Odia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Odia_voot_MOB/Fallback/News18_Odia_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="627" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Assam.png",News18 Assam North East
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Assam_North_East_voot_MOB/Fallback/News18_Assam_North_East_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="965" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/News_18_Kerala.png",News18 Kerala
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Kerala_voot_MOB/Fallback/News18_Kerala_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="531" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_RAJASTHAN.png",News18 Rajasthan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Rajasthan_voot_MOB/Fallback/News18_Rajasthan_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="693" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_BIHAR.png",News18 Bihar Jharkhand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Bihar_Jharkhand_voot_MOB/Fallback/News18_Bihar_Jharkhand_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="529" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_MP.png",News18 MP Chhattisgarh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_MP_Chhattisgarh_voot_MOB/Fallback/News18_MP_Chhattisgarh_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="530" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_UP.png",News18 UP Uttarakhand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_UP_Uttarakhand_voot_MOB/Fallback/News18_UP_Uttarakhand_voot_MOB.m3u8
 
 #EXTINF:-1 tvg-id="694" group-title="News" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Urdu.png",News18 JKLH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-#EXTHTTP:{"cookie":"hdntl=exp=1764099009~acl=%2f*~id=8174be7f2ec01f48f5f47282f53c1d19~data=hdntl~hmac=3460fe6c80825c602bf19e4f2fc33198ad8bc64541b12c3fafb673b1aa24df6d"}
+#EXTHTTP:{"cookie":""}
 #EXTVLCOPT:http-origin=https://www.hotstar.com
 #EXTVLCOPT:http-referrer=https://www.hotstar.com/
 https://jcevents.hotstar.com/bpk-tv/News18_Urdu_voot_MOB/Fallback/News18_Urdu_voot_MOB.m3u8
